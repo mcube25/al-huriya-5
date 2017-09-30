@@ -5,7 +5,7 @@ body {
 
 .nav-links {
     padding: 12px 15px;
-    text-align: center;
+    text-align: left;
 }
 
 .nav-item active {
@@ -49,11 +49,7 @@ p {
 }
 
 .btn {
-    border-bottom-color: 2px;
-    width: 100px;
-    height: 50px;
     background-color: lightseagreen;
-    border-radius: 2px;
 }
 
 .form-control {
